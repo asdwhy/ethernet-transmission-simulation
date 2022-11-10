@@ -1,0 +1,5 @@
+./eth_transmission_simulation -s 1337 1000000 20 40 100
+---------------------------------------------------------------------------------------------
+Average time for 20 hosts is 14.837388
+Average time for 40 hosts is 24.714912
+Average time for 100 hosts is 49.14045

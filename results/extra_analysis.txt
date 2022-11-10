@@ -1,0 +1,16 @@
+./eth_transmission_simulation -s 1337 10000 1 2 4 8 16 32 64 128 256 512 1024 2048 4096 8192
+---------------------------------------------------------------------------------------------
+Average time for 1 hosts is 0
+Average time for 2 hosts is 3.6668
+Average time for 4 hosts is 4.435
+Average time for 8 hosts is 7.4448
+Average time for 16 hosts is 12.5
+Average time for 32 hosts is 20.9471
+Average time for 64 hosts is 34.9537
+Average time for 128 hosts is 59.2586
+Average time for 256 hosts is 101.2587
+Average time for 512 hosts is 170.7206
+Average time for 1024 hosts is 284.4451
+Average time for 2048 hosts is 488.4766
+Average time for 4096 hosts is 869.2971
+Average time for 8192 hosts is 1472.285

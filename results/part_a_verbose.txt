@@ -1,0 +1,89 @@
+./eth_transmission_simulation -v -s 1337 1 5
+---------------------------------------------------------------------------------------------
+Starting step 0
+Host 0 is transmitting
+Host 1 is transmitting
+Host 2 is transmitting
+Host 3 is transmitting
+Host 4 is transmitting
+Collision w/ Host 0! 
+Host 0 next time to send is 1
+Collision w/ Host 1! 
+Host 1 next time to send is 1
+Collision w/ Host 2! 
+Host 2 next time to send is 1
+Collision w/ Host 3! 
+Host 3 next time to send is 1
+Collision w/ Host 4! 
+Host 4 next time to send is 1
+
+Starting step 1
+Host 0 is transmitting
+Host 1 is transmitting
+Host 2 is transmitting
+Host 3 is transmitting
+Host 4 is transmitting
+Collision w/ Host 0! 
+Host 0 next time to send is 3
+Collision w/ Host 1! 
+Host 1 next time to send is 3
+Collision w/ Host 2! 
+Host 2 next time to send is 2
+Collision w/ Host 3! 
+Host 3 next time to send is 3
+Collision w/ Host 4! 
+Host 4 next time to send is 2
+
+Starting step 2
+Host 2 is transmitting
+Host 4 is transmitting
+Collision w/ Host 2! 
+Host 2 next time to send is 4
+Collision w/ Host 4! 
+Host 4 next time to send is 6
+
+Starting step 3
+Host 0 is transmitting
+Host 1 is transmitting
+Host 3 is transmitting
+Collision w/ Host 0! 
+Host 0 next time to send is 4
+Collision w/ Host 1! 
+Host 1 next time to send is 5
+Collision w/ Host 3! 
+Host 3 next time to send is 5
+
+Starting step 4
+Host 0 is transmitting
+Host 2 is transmitting
+Collision w/ Host 0! 
+Host 0 next time to send is 8
+Collision w/ Host 2! 
+Host 2 next time to send is 5
+
+Starting step 5
+Host 1 is transmitting
+Host 2 is transmitting
+Host 3 is transmitting
+Collision w/ Host 1! 
+Host 1 next time to send is 9
+Collision w/ Host 2! 
+Host 2 next time to send is 6
+Collision w/ Host 3! 
+Host 3 next time to send is 13
+
+Starting step 6
+Host 2 is transmitting
+Host 4 is transmitting
+Collision w/ Host 2! 
+Host 2 next time to send is 14
+Collision w/ Host 4! 
+Host 4 next time to send is 14
+
+Starting step 7
+Nothing happens
+
+Starting step 8
+Host 0 is transmitting
+Host 0 successfully sent
+Average time for 5 hosts is 8
