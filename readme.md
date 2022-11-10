@@ -14,7 +14,7 @@ Time is modelled as an integer $T$, in units of time slots of time steps, and co
 ## Compiling
 It is recommended to use the rust package manager ```cargo``` to compile the project. See this [tutorial](https://doc.rust-lang.org/book/ch01-01-installation.html) to install cargo. You can simply compile and run the project using ```cargo run``` from the directory where $\verb|cargo.toml|$ is located.
 
-A pre-compiled binary for Ubuntu is included in the $\verb|target|$ directory.
+A pre-compiled binary for Ubuntu already included.
 
 ## Running the program
 ```
